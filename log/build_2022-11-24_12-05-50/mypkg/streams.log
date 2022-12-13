@@ -1,0 +1,22 @@
+[0.326s] Invoking command in '/home/tanaka/ros2_ws/src/mypkg': PYTHONPATH=/home/tanaka/ros2_ws/src/mypkg/install/mypkg/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/mypkg build --build-base /home/tanaka/ros2_ws/src/mypkg/build/mypkg/build install --prefix /home/tanaka/ros2_ws/src/mypkg/install/mypkg --record /home/tanaka/ros2_ws/src/mypkg/build/mypkg/install.log --single-version-externally-managed
+[0.437s] running egg_info
+[0.437s] writing build/mypkg/mypkg.egg-info/PKG-INFO
+[0.437s] writing dependency_links to build/mypkg/mypkg.egg-info/dependency_links.txt
+[0.438s] writing entry points to build/mypkg/mypkg.egg-info/entry_points.txt
+[0.438s] writing requirements to build/mypkg/mypkg.egg-info/requires.txt
+[0.438s] writing top-level names to build/mypkg/mypkg.egg-info/top_level.txt
+[0.457s] reading manifest file 'build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.457s] writing manifest file 'build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.457s] running build
+[0.457s] running build_py
+[0.458s] running install
+[0.458s] running install_lib
+[0.458s] running install_data
+[0.459s] running install_egg_info
+[0.460s] removing '/home/tanaka/ros2_ws/src/mypkg/install/mypkg/lib/python3.6/site-packages/mypkg-0.0.0-py3.6.egg-info' (and everything under it)
+[0.460s] Copying build/mypkg/mypkg.egg-info to /home/tanaka/ros2_ws/src/mypkg/install/mypkg/lib/python3.6/site-packages/mypkg-0.0.0-py3.6.egg-info
+[0.460s] running install_scripts
+[0.471s] Installing listener script to /home/tanaka/ros2_ws/src/mypkg/install/mypkg/lib/mypkg
+[0.471s] Installing talker script to /home/tanaka/ros2_ws/src/mypkg/install/mypkg/lib/mypkg
+[0.471s] writing list of installed files to '/home/tanaka/ros2_ws/src/mypkg/build/mypkg/install.log'
+[0.486s] Invoked command in '/home/tanaka/ros2_ws/src/mypkg' returned '0': PYTHONPATH=/home/tanaka/ros2_ws/src/mypkg/install/mypkg/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/mypkg build --build-base /home/tanaka/ros2_ws/src/mypkg/build/mypkg/build install --prefix /home/tanaka/ros2_ws/src/mypkg/install/mypkg --record /home/tanaka/ros2_ws/src/mypkg/build/mypkg/install.log --single-version-externally-managed
